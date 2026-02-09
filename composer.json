@@ -1,0 +1,33 @@
+{
+    "name": "italix/contracts",
+    "description": "Shared contracts (interfaces) for Italix libraries - enables seamless integration between italix/orm, italix/forms, and other compatible libraries",
+    "type": "library",
+    "keywords": [
+        "contracts",
+        "interfaces",
+        "orm",
+        "forms",
+        "table-meta",
+        "column-meta",
+        "delegated-types",
+        "schema"
+    ],
+    "homepage": "https://github.com/italix-net/contracts",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Italix",
+            "email": "info@italix.dev"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Italix\\Contracts\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
