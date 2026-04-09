@@ -3,7 +3,7 @@
  * Italix Contracts - PolymorphicColumnMeta Interface
  *
  * @package Italix\Contracts
- * @license Apache-2.0
+ *  LGPL-3.0
  */
 
 declare(strict_types=1);
