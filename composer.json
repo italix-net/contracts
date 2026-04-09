@@ -15,7 +15,7 @@
         "array-access"
     ],
     "homepage": "https://github.com/italix-net/contracts",
-    "license": "Apache-2.0",
+    "license": "LGPL-3.0-only",
     "authors": [
         {
             "name": "Italix",

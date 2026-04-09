@@ -3,7 +3,7 @@
  * Italix Contracts - DataContainer Class
  *
  * @package Italix\Contracts
- * @license Apache-2.0
+ * @license LGPL-3.0
  */
 
 declare(strict_types=1);

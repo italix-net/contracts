@@ -323,5 +323,5 @@ Classes:
 
 ## License
 
-Apache-2.0
+LGPL-3.0
 
