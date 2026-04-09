@@ -10,7 +10,9 @@
         "table-meta",
         "column-meta",
         "delegated-types",
-        "schema"
+        "schema",
+        "data-container",
+        "array-access"
     ],
     "homepage": "https://github.com/italix-net/contracts",
     "license": "Apache-2.0",
