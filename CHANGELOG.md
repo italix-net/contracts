@@ -3,6 +3,14 @@
 Format: [Keep a Changelog](https://keepachangelog.com/). Versioning policy: `VERSIONING.md` at the
 project root.
 
+## [2.0.1] — 2026-08-29
+
+### Fixed
+
+- `composer.json`'s `authors[0].email` had the wrong domain (`info@italix.dev` instead of
+  `info@italix.net`) — carried by every Italix library, copied from a shared template.
+  `v2.0.0`'s tag is frozen with the old value; this patch corrects it going forward.
+
 ## [2.0.0] — 2026-08-28
 
 ### Changed — BREAKING
