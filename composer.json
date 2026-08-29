@@ -31,5 +31,11 @@
         }
     },
     "minimum-stability": "stable",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "require-dev": {
+        "italix/testing": "^2.0"
+    },
+    "scripts": {
+        "test": "php tests/DataContainerTest.php"
+    }
 }
