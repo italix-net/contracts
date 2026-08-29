@@ -2,6 +2,7 @@
     "name": "italix/contracts",
     "description": "Shared contracts (interfaces) for Italix libraries - enables seamless integration between italix/orm, italix/forms, and other compatible libraries",
     "type": "library",
+    "version": "2.0.0",
     "keywords": [
         "contracts",
         "interfaces",
